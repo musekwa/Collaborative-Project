@@ -4,3 +4,12 @@ p {
     font-size: 18px;
     font-weight: bolder;
 }
+
+
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    color: red;
+}
